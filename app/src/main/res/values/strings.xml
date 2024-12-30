@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">YourTennisApp</string>
+    <string name="title_activity_create_account">CreateAccountActivity</string>
+    <string name="training">Training</string>
+    <string name="chat">Chat</string>
+    <string name="account">Account</string>
+</resources>
